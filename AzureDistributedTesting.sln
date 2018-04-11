@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureDistributedTesting", "AzureDistributedTesting\AzureDistributedTesting.csproj", "{25598191-A7C6-48D2-BD47-0587F5377944}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{0F49566B-43E8-4637-BF45-989D1DDAA191}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{25598191-A7C6-48D2-BD47-0587F5377944}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25598191-A7C6-48D2-BD47-0587F5377944}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25598191-A7C6-48D2-BD47-0587F5377944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F49566B-43E8-4637-BF45-989D1DDAA191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F49566B-43E8-4637-BF45-989D1DDAA191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F49566B-43E8-4637-BF45-989D1DDAA191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F49566B-43E8-4637-BF45-989D1DDAA191}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
